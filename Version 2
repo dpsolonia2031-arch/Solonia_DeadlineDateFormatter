@@ -1,0 +1,18 @@
+import calendar
+
+event_title = input("Enter event title: ")
+year = int(input("Enter year: "))
+month = int(input("Enter month: "))
+day = int(input("Enter day: "))
+
+formatted_title = event_title.upper()
+month_name = calendar.month_name[month]
+weekday = calendar.day_name[calendar.weekday(year, month, day)]
+
+print("\nFormatted Output:")
+print("Event:", formatted_title)
+print("Date:", f"{month_name} {day}, {year}")
+print("Year:", year)
+print("Month:", month_name)
+print("Day:", day)
+print("Weekday:", weekday)
