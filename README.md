@@ -1,1 +1,1 @@
-$\color{maroon}\textbf{De Gracia Date Formatter}$
+$\color{maroon}\textbf{Solonia Date Formatter}$
