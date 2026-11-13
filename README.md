@@ -1,1 +1,1 @@
-$$\color{#990000}\Huge\textbf{Solonia\_DeadlineDateFormatter}$$
+$\color{maroon}\textbf{De Gracia Date Formatter}$
